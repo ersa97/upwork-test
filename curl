@@ -1,0 +1,1 @@
+curl --location 'https://upwork-bold-sea-8882.fly.dev/' --header 'Content-Type: application/json' --data '{"numbers": [1,2,3]}'

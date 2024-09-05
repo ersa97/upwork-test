@@ -1,0 +1,6 @@
+POST https://upwork-bold-sea-8882.fly.dev/
+Content-Type: application/json
+
+{
+    "numbers": [1,2,3]
+}
