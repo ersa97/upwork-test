@@ -1,6 +1,11 @@
 POST https://upwork-bold-sea-8882.fly.dev/
-Content-Type: application/json
+Content-Type: text/plain
 
-{
-    "numbers": [1,2,3]
-}
+[1,2,3]
+
+###
+POST http://127.0.0.1:3000/
+Content-Type: text/plain
+
+[1,2,3]
+
